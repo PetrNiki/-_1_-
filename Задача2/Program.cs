@@ -6,7 +6,7 @@ Console.WriteLine("Введите второе число");
 int num2 = int.Parse(Console.ReadLine());
 if (num1 > num2)
 {
-   Console.WriteLine("Первое число болше второго");
+   Console.WriteLine("Первое число больше второго");
 }
 if (num1 < num2)
 {
